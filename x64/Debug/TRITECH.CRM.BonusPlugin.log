@@ -1,0 +1,140 @@
+﻿  BonusTimer.cpp
+  CRM_Bonus_PluginInstance.cpp
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(40): warning C4101: 'j': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(125): warning C4477: 'sprintf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(125): note: consider using '%zu' in the format string
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(155): warning C4477: 'sprintf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(155): note: consider using '%zu' in the format string
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(467): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(528): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(576): warning C5030: attribute 'unused' is not recognized
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(655): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(895): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(914): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(932): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(937): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(878): warning C4101: 'row': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(879): warning C4101: 'Qres': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(982): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(982): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1011): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1011): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1016): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1016): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1050): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1028): warning C4101: 'w_res_up': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1981): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1988): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1952): warning C4101: 'quantity': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2070): warning C4101: 'quantity': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2144): warning C4244: 'return': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2134): warning C4101: 'year': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2133): warning C4101: 'timeinfo': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2134): warning C4101: 'day': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2134): warning C4101: 'month': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2318): warning C4101: 'e_conn': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2368): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2523): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2543): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2268): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2279): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2279): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2259): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2259): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(448): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(448): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\chrono(595): note: see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\chrono(172): note: see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\chrono(574): note: see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+  dllmain.cpp
+  pch.cpp
+  Generating Code...
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(489): warning C4715: 'CRM_Bonus_PluginInstance::OnUserCredit': not all control paths return a value
+mysqlclient.lib(plugin_client.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(plugin_client.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(client_authentication.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(client_authentication.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(net_serv.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(net_serv.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(my_default.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(my_default.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(ssl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(ssl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(handshake_client.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(handshake_client.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(my_sha1.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(my_sha1.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(crypt_genhash_impl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(crypt_genhash_impl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(my_aes_yassl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(my_aes_yassl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(yassl_int.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(yassl_int.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(handshake.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(handshake.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(yassl_imp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(yassl_imp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(crypto_wrapper.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(crypto_wrapper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(asn.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(asn.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(cert_wrapper.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(cert_wrapper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(integer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(integer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(rsa.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(rsa.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(dsa.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(dsa.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(log_client.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(log_client.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(common.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(common.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(handshake.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(handshake.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(my_aes.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(my_aes.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(dh.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(dh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+mysqlclient.lib(algebra.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in BonusTimer.obj
+mysqlclient.lib(algebra.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in BonusTimer.obj
+     Creating library C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\x64\Debug\TRITECH.CRM.BonusPluginST.lib and object C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\x64\Debug\TRITECH.CRM.BonusPluginST.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\x64\Debug\TRITECH.CRM.BonusPluginST.dll : fatal error LNK1319: 48 mismatches detected

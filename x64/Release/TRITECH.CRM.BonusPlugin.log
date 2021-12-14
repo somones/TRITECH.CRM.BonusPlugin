@@ -1,0 +1,91 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (TRITECH.CRM.BonusPluginST.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BonusTimer.cpp
+  CRM_Bonus_PluginInstance.cpp
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(40): warning C4101: 'j': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\vigenere.h(62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(125): warning C4477: 'sprintf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(125): note: consider using '%zu' in the format string
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(155): warning C4477: 'sprintf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\license\License.hpp(155): note: consider using '%zu' in the format string
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(466): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(529): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(582): warning C5030: attribute 'unused' is not recognized
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(692): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(929): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(949): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(960): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(965): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(913): warning C4101: 'row': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1021): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1021): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1032): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1032): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1037): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(1037): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2034): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2043): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2006): warning C4101: 'quantity': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2212): warning C4244: 'return': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2202): warning C4101: 'year': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2201): warning C4101: 'timeinfo': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2202): warning C4101: 'day': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2202): warning C4101: 'month': unreferenced local variable
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2472): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2659): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2689): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(2709): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2268): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2279): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2279): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2259): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\xstring(2259): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(447): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\TRITECH.CRM.BonusPlugin\CRM_Bonus_PluginInstance.cpp(447): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\chrono(595): note: see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\chrono(172): note: see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.20.27508\include\chrono(574): note: see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+  dllmain.cpp
+  pch.cpp
+     Creating library C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\x64\Release\TRITECH.CRM.BonusPluginSTest.lib and object C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\x64\Release\TRITECH.CRM.BonusPluginSTest.exp
+  Generating code
+  0 of 1961 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TRITECH.CRM.BonusPlugin.vcxproj -> C:\tritech-plugin-bonus\Server\Examples\LAUNCH FXM STRUCTURE DB\x64\Release\TRITECH.CRM.BonusPluginSTest.dll
