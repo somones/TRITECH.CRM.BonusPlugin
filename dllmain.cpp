@@ -33,10 +33,10 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
 MTPluginParam ExtPluginDefaults[] =
 {
 	{ MTPluginParam::TYPE_STRING,			L"crm.database",					L"plugin_crm_db" },
-	{ MTPluginParam::TYPE_STRING,			L"crm.database.Host",				L"148.72.55.213" },
-	{ MTPluginParam::TYPE_STRING,			L"crm.database.user",			    L"plugin_db_user"},
-	{ MTPluginParam::TYPE_STRING,			L"crm.database.password",	        L"r9_WL#fw"},
-	{ MTPluginParam::TYPE_STRING,			L"plugin.license",					L"r9_WL#fw"},
+	{ MTPluginParam::TYPE_STRING,			L"crm.database.Host",				L"IP" },
+	{ MTPluginParam::TYPE_STRING,			L"crm.database.user",			    L"USERNAME"},
+	{ MTPluginParam::TYPE_STRING,			L"crm.database.password",	        L"PWD"},
+	{ MTPluginParam::TYPE_STRING,			L"plugin.license",					L"PWD"},
 };
 
 //+------------------------------------------------------------------+
